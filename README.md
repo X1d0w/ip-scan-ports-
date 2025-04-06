@@ -1,2 +1,3 @@
 # ip-scan-ports-
-python code 
+a simpel code python to scane ip ports 
+enjoy :)
